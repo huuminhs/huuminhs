@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<h1>Hi</h1>
+Software engineer - Undergraduate - Specializing in Web Development
 
 <!--
 **huuminhs/huuminhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
