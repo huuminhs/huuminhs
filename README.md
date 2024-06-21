@@ -1,5 +1,6 @@
 ### Hi there 👋
 Software engineer - Undergraduate - Specializing in Web Development
+<br/>
 Speak Vietnamese (as mother tongue), English and Japanese
 
 <!--
