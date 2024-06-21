@@ -1,5 +1,6 @@
 ### Hi there 👋
 Software engineer - Undergraduate - Specializing in Web Development
+Speak Vietnamese (as mother tongue), English and Japanese
 
 <!--
 **huuminhs/huuminhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
